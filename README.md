@@ -1,3 +1,5 @@
+[English](./READNE.md) [中文](./READNE.md)
+
 <div align="center">
   <h2><b> Towards Personalized Evaluation of Large Language Models with An Anonymous Crowd-Sourcing Platform (TheWebConf2024) </b></h2>
 </div>
