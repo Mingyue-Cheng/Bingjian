@@ -23,7 +23,6 @@
   pages={1035--1038},
   year={2024}
 }
-'''
 
 ## Project Overview
 
