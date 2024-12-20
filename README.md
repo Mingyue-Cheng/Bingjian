@@ -9,6 +9,11 @@
 <a href="" target="_blank"><img src="https://github.com/user-attachments/assets/7852bedc-f7cd-4b49-8064-ee3f578881a8" alt="WriteGPT" style="width: 60%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
 
+>
+> 🙋 Please let us know if you find out a mistake or have any suggestions!
+> 
+> 🌟 If you find this resource helpful, please consider to star this repository and cite our research:
+
 ```
 @inproceedings{cheng2024towards,
   title={Towards Personalized Evaluation of Large Language Models with An Anonymous Crowd-Sourcing Platform},
@@ -17,12 +22,7 @@
   pages={1035--1038},
   year={2024}
 }
----
->
-> 🙋 Please let us know if you find out a mistake or have any suggestions!
-> 
-> 🌟 If you find this resource helpful, please consider to star this repository and cite our research:
-
+```
 
 
 ## Project Overview
