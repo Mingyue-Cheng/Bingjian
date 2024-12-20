@@ -1,4 +1,4 @@
-[English](./README.md) [中文](./README_Chinese.md)
+[English](./README.md) [中文](./README_Chinese.md)    [冰鉴大模型评测平台访问入口](https://bjllm.com/)
 
 <div align="center">
   <h2><b> Towards Personalized Evaluation of Large Language Models with An Anonymous Crowd-Sourcing Platform (TheWebConf2024) </b></h2>
