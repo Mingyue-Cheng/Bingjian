@@ -1,4 +1,4 @@
-[English](./READNE.md) [中文](./READNE.md)
+[English](./README.md) [中文](./README_Chinese.md)
 
 <div align="center">
   <h2><b> Towards Personalized Evaluation of Large Language Models with An Anonymous Crowd-Sourcing Platform (TheWebConf2024) </b></h2>
