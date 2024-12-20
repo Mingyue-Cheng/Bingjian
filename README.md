@@ -15,6 +15,15 @@
 > 
 > 🌟 If you find this resource helpful, please consider to star this repository and cite our research:
 
+```
+@inproceedings{cheng2024towards,
+  title={Towards Personalized Evaluation of Large Language Models with An Anonymous Crowd-Sourcing Platform},
+  author={Cheng, Mingyue and Zhang, Hao and Yang, Jiqian and Liu, Qi and Li, Li and Huang, Xin and Song, Liwei and Li, Zhi and Huang, Zhenya and Chen, Enhong},
+  booktitle={Companion Proceedings of the ACM on Web Conference 2024},
+  pages={1035--1038},
+  year={2024}
+}
+'''
 
 ## Project Overview
 
