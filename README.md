@@ -5,7 +5,10 @@
 </div>
 
 ---
-<img width="1000" alt="截屏2024-12-06 09 12 06" src="https://github.com/user-attachments/assets/7852bedc-f7cd-4b49-8064-ee3f578881a8">
+<p align="center" width="100%">
+<a href="" target="_blank"><img src="https://github.com/user-attachments/assets/7852bedc-f7cd-4b49-8064-ee3f578881a8" alt="WriteGPT" style="width: 60%; min-width: 300px; display: block; margin: auto;"></a>
+</p>
+
 
 >
 > 🙋 Please let us know if you find out a mistake or have any suggestions!
